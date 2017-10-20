@@ -1,0 +1,11 @@
+{
+  "name": "shepherd",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Wang Jie",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-elm": "^0.7.2"
+  }
+}
